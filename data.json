@@ -1,11 +1,11 @@
 {
     "2024-12-07": {
-        "image": "img/1-img-leccion.png",
-        "audio": "audio/leccion-1.mp3"
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/v1733678029/1-img-leccion_rrkzuc.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/v1733678015/leccion-1_z40kax.mp3"
     },
     "2024-12-08": {
-      "image": "https://drive.google.com/uc?export=download&id=1yo4NV8__uqMbqilUb910c7A7rZsO0Z7U",
-      "audio": "https://drive.google.com/uc?export=download&id=13WQkJDpEbgSx6gbRqmw__VAGTzuamxIv"
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/2-img-leccion_ednfjd.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-2_dvskru.mp3"
     },
     "2025-01-03": {
       "image": "https://link-a-tu-imagen.com/imagen3.jpg",
