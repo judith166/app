@@ -1,15 +1,127 @@
 {
-    "2024-12-07": {
+    "2025-01-01": {
       "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/v1733678029/1-img-leccion_rrkzuc.png",
       "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/v1733678015/leccion-1_z40kax.mp3"
     },
-    "2024-12-08": {
+    "2025-01-02": {
       "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/2-img-leccion_ednfjd.png",
       "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-2_dvskru.mp3"
     },
     "2025-01-03": {
-      "image": "https://link-a-tu-imagen.com/imagen3.jpg",
-      "audio": "https://link-de-tu-audio3.mp3"
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/3-img-leccion_g5ykb9.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-3_ijbhkt.mp3"
+    },
+    "2025-01-04": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/4-img-leccion_beh9ls.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-4_s48pce.mp3"
+    },
+    "2025-01-05": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/5-img-leccion_jothlm.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-5_g2a5pl.mp3"
+    },
+    "2025-01-06": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/6-img-leccion_dxqsrb.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-6_th35pt.mp3"
+    },
+    "2025-01-07": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/7-img-leccion_mz7lk5.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-7_ofujsz.mp3"
+    },
+    "2025-01-08": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/8-img-leccion_sfw06v.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-8_aje3gm.mp3"
+    },
+    "2025-01-09": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/9-img-leccion_c3lmsi.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-9_yzbsrp.mp3"
+    },
+    "2025-01-10": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/10-img-leccion_tcrbj5.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-10_naxntz.mp3"
+    },
+    "2025-01-11": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/11-img-leccion_gcecbo.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-11_wnbmly.mp3"
+    },
+    "2025-01-12": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/12-img-leccion_qe3bxo.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-12_pff42v.mp3"
+    },
+    "2025-01-13": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/13-img-leccion_w8uohu.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-13_dwirp7.mp3"
+    },
+    "2025-01-14": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/14-img-leccion_l4k5fu.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-14_jru54h.mp3"
+    },
+    "2025-01-15": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/15-img-leccion_tuffbm.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-15_irsgvd.mp3"
+    },
+    "2025-01-16": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/16-img-leccion_mi9af5.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-16_aflgte.mp3"
+    },
+    "2025-01-17": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/17-img-leccion_e84cyx.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-17_xe0xlt.mp3"
+    },
+    "2025-01-18": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/18-img-leccion_ainblj.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-18_rkmwjo.mp3"
+    },
+    "2025-01-19": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/19-img-leccion_jxhz6v.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-19_ulvudg.mp3"
+    },
+    "2025-01-20": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/20-img-leccion_wkl1b0.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-20_dukdxp.mp3"
+    },
+    "2025-01-21": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/21-img-leccion_nmorlu.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-21_fefmyp.mp3"
+    },
+    "2025-01-22": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/22-img-leccion_etny9q.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-22_gpwos3.mp3"
+    },
+    "2025-01-23": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/23-img-leccion_fgbl9m.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-23_pstbio.mp3"
+    },
+    "2025-01-24": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/24-img-leccion_ezav2i.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-24_ppthuu.mp3"
+    },
+    "2025-01-25": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/25-img-leccion_lfnoej.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-25_inbklv.mp3"
+    },
+    "2025-01-26": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/26-img-leccion_ayo3ho.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-26_tc5exs.mp3"
+    },
+    "2025-01-27": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/27-img-leccion_ovhloz.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-27_n1l1f9.mp3"
+    },
+    "2025-01-28": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/28-img-leccion_jizn42.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-28_ilszj4.mp3"
+    },
+    "2025-01-29": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/29-img-leccion_ulgw8r.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-29_wkexby.mp3"
+    },
+    "2025-01-30": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/30-img-leccion_dwmymn.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-30_z71wyy.mp3"
+    },
+    "2025-01-31": {
+      "image": "https://res.cloudinary.com/deg9qwf4r/image/upload/31-img-leccion_hm4cvj.png",
+      "audio": "https://res.cloudinary.com/deg9qwf4r/video/upload/leccion-31_kstbmf.mp3"
     }
 }
   
