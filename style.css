@@ -58,7 +58,7 @@ html, body {
   /* Media queries para pantallas más grandes */
   @media (min-width: 768px) {
     h1 {
-      font-size: 2rem;
+      font-size: 3rem;
       margin-top: 40px;
     }
   
